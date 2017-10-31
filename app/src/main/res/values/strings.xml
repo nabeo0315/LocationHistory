@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationHistory</string>
+    <string name="startButton">START</string>
+    <string name="stopButton">STOP</string>
+</resources>
